@@ -1,0 +1,2 @@
+Q7.How firewall filter traffic?
+Ans>By allowing or blocking packets based on a predefined rules.It examine source/destination IP,Ports and protocols.Inbound rule control traffic entering the system.Outbonund rule control traffic leaving the system.It act as a barrier between a trusted internal network and untrusted external network.
